@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* card */
+
+.card {
+  overflow: hidden;
+
+  width: 25rem;
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+}
+
+.card img {
+  padding-top: 1rem;
+  height: 100%;
+  width: 120px;
+  object-fit: cover;
+}
+
+.card p {
+  font-size: 1rem;
+  line-height: 1.4;
+  opacity: .7;
+  margin-bottom: 0;
+  margin-top: 8px;
+}
