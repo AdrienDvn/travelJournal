@@ -1,7 +1,7 @@
 export default function Navbar() {
   return (
-    <div>hi from Navbar.js
-      make the nav bar red
+    <div className="navbar">
+      <i class="fa-solid fa-earth-americas"></i>my travel journal
     </div>
   )
 }
