@@ -16,16 +16,6 @@ function App() {
     <div className="App">
       <Navbar/>
       {cards}
-      {/* static page
-        little red navbar
-        4 horizontal cards set in list
-        CC img on the left,
-        a location icon, a location name,
-        google maps links
-        title
-        date
-        description */}
-
     </div>
   );
 }
