@@ -16,5 +16,14 @@ export default [
     endDate: "02 Oct, 2022",
     description:"Bali is the jewel of indonesia, surrounded by the indian ocean and home to a well established surf culture mixed with indonesian spiritual culture, the name city of gods is well deserved.",
     imageUrl:"https://images.unsplash.com/photo-1557093793-e196ae071479?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+  },
+  {
+    title: "Fuerteventura",
+    location: "Canary Islands",
+    googleMapsUrl: "https://www.google.com/maps/place/Fuerteventura,+Province+de+Las+Palmas,+Espagne/data=!4m2!3m1!1s0xc47a473afc20f81:0x2ac71c13b5b57f23?sa=X&ved=2ahUKEwjPg9D2kur9AhWGRKQEHTwPDv8Q8gF6BAgMEAI",
+    startDate: "08 Dec, 2022",
+    endDate: "03 Jan, 2023",
+    description:"Fuerte is amongst the fire islands of the canary islands, surrounded by the atlantic ocean and home to a well established surf culture mixed with laid back spanish vibes.",
+    imageUrl:"https://images.unsplash.com/photo-1634586279003-b09ff7a55962?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
   }
 ]
